@@ -21,7 +21,7 @@ public class DemoApplication {
             "service", "dual-repo-hello-world-2",
             "costCenter", "CC-1234",
             "status", "UP",
-            "message", "Governed Spring Boot service running on OrbStack Kubernetes"
+            "message", "Governed Spring Boot service running on OrbStack Kubernetes. Updated by developer - governed by centralized OPA/Rego"
         );
     }
 }
